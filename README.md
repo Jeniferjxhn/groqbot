@@ -1,6 +1,6 @@
 # AI Chatbot🤖
 
-A **fast and fun chatbot** powered by **Groq's API**! Choose models, chat in real-time, and save your conversations. Perfect for brainstorming, learning, or just having fun! Check it out here ---> https://aichatbot-groqllm.streamlit.app/ 
+A **fast and fun chatbot** powered by **Groq's API**! Choose models, chat in real-time, and save your conversations. Perfect for brainstorming, learning, or just having fun! Check it out here ---> https://jeniferjxhn-groqbot.streamlit.app/ 
 
 ---
 
